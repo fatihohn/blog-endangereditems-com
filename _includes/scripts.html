@@ -32,6 +32,9 @@
           $this.prop("disabled", true); // Disable submit button until AJAX call is complete to prevent duplicate messages
           $.ajax({
             url: "//formspree.io/{{ site.formspree_form_endpoint }}",
+            headers: {
+              "Access-Control-Allow-Origin": "*",
+            },
             type: "POST",
             data: {
               name: name,
