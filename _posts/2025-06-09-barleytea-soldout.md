@@ -35,8 +35,7 @@ background: "/img/posts/01-barley-tea.png"
 
 나는 원래 **기후위기에 관심이 많은 1인 개발자**다.  
 ‘인간과 비인간 존재들이 함께 살아가는 방법은 무엇일까’를 고민하며  
-2024년에는 *Dark Matter Labs*와 함께  
-도시와 생태계의 권한을 다루는 **Permissioning the City** 프로젝트도 진행했다.
+2024년에는 *[Dark Matter Labs](https://darkmatterlabs.org/)*와 함께 도시와 생태계의 권한을 다루는 **[Permissioning the City](https://www.permissioning.city/)** 프로젝트도 진행했다.
 
 그래서 이번 보리차 품절 사태도, 그냥 넘길 수가 없었다.  
 어떤 데이터가, 어떤 신호가, 이런 사태를 미리 예고하고 있었는지 궁금해졌고,  
